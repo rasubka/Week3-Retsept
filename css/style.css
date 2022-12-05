@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nerko+One&display=swap');
+
+body {
+    border: 1px inset;
+    background-color: khaki;
+    color: darkred;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+}
+
+img {
+    width: 40%;
+    border-radius: 5%;
+    vertical-align: bottom;
+}
+
+.koostis {
+    display: inline-block;
+    width: 40%;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+footer {
+    font-family: 'Nerko One', cursive;
+    font-size: large;
+}
